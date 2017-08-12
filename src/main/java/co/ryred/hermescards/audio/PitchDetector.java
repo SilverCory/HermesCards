@@ -43,7 +43,7 @@ public class PitchDetector implements PitchDetectionHandler {
             if (Main.imageDisplay != null && Main.imageDisplay.getNextButton() != null)
                 Main.imageDisplay.getNextButton().doClick();
             System.out.println(message);
-            sleep = System.nanoTime() + TimeUnit.MILLISECONDS.toNanos(200);
+            sleep = System.nanoTime() + TimeUnit.MILLISECONDS.toNanos(500);
         }
 
     }
