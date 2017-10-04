@@ -6,7 +6,7 @@ HermesCards
 ### What does this do?
 Generate barcodes from the top and bottom calling card numbers, and allows you to scan them off one by one, also listens for the beep of the barcode reader to change. An image example.
 
-## Usage
+## Usage (the action of using something or the fact of being used)
 Run the JAR or EXE, enter the top and bottom calling card barcode numbers (they are usually in packs of 100 so the top would be 5555101, and the bottom would be 5555001), and scan away.
 
 ## Compile
