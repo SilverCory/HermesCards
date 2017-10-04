@@ -1,6 +1,6 @@
 HermesCards
 ==========
-**Cheating the Hermes system**
+**Cheating the Hermes system**.
 
 ## Information
 ### What this does..
