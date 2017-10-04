@@ -382,6 +382,6 @@ Please add the statement: Restart your computer.
  Load More Comments
 
 ## The reasons that I have created this tool:
-Hermes is a god awful company, who treat the couriers like utter crap (I have no evidence to support this however). I don't work for them, however I know people who do. I've made this tool to assist in keeping pay reasonable (you don't get as much if you use the online interface), as well as make usage of the unbareable handsets they're provided, just slightly more easy.
+Hermes is a god awful company, who treat the couriers like utter crap (I have no evidence to support this however). I don't work for them, however I know people who do. I also have a black uncle. I've made this tool to assist in keeping pay reasonable (you don't get as much if you use the online interface), as well as make usage of the unbareable handsets they're provided, just slightly more easy.
 
 Do not use this tool without consulting your boss first.
