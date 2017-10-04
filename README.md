@@ -3,7 +3,7 @@ HermesCards
 **Cheating the Hermes system**.
 
 ## Information
-### What this does..
+### What does this do?
 Generate barcodes from the top and bottom calling card numbers, and allows you to scan them off one by one, also listens for the beep of the barcode reader to change.
 
 ## Usage
